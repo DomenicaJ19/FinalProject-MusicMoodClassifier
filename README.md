@@ -38,12 +38,11 @@ This project uses Python and Google Colab to classify music into five mood categ
 
 - **Evaluation Tools**: Includes accuracy metrics, classification reports, and example predictions
 
-- ## Project Walkthrough Presentation
+## Project Walkthrough Presentation
 
 - https://drive.google.com/file/d/16VGrcNluBB4Kh4H8vHsoN0EXsrs1yovB/view?usp=sharing
 
-  
-- ## Project Walkthrough Demo
+## Project Walkthrough Demo
 
 - https://drive.google.com/file/d/1bHZUxA57QV4YQ3jj8zGprcDYuW129sl7/view?usp=sharing
 
